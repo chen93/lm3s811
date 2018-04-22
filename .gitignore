@@ -1,9 +1,13 @@
 gcc-arm-none-eabi-*
 *~
 
+#ctags
+tags
+
 # Object files
 *.o
 *.ko
+*.d
 
 # Libraries
 *.lib
